@@ -1,0 +1,20 @@
+ 1000  git push
+ 1001  git status
+ 1002  git add -A
+ 1003  git status
+ 1004  git commit -m "hid API key"
+ 1005  git push
+ 1006  git status
+ 1007  git add -A
+ 1008  git status
+ 1009  git commit -m "fix dotenv file"
+ 1010  git push
+ 1011  git status
+ 1012  git add NYC-PropTech-Final/MCForecastTools.py
+ 1013  git status
+ 1014  git commit -m "edited sim script"
+ 1015  git status
+ 1016  git add -A
+ 1017  git status
+ 1018  git commit -m "cleaned project folder"
+ 1019  git push
