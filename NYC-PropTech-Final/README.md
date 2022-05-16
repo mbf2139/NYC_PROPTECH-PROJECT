@@ -6,7 +6,7 @@ This repo contains the results of the NYC-PropTech-Prices group project.
 <p>
     
     
-To view the file, open the "NYC-PropTech-Prices" folder and open the "evaluations.ipynb" file. 
+To view the file, open the "NYC-PropTech-Final" folder and open the "evaluations.ipynb" file. 
 </p>
 
     
